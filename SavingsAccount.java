@@ -2,7 +2,7 @@
 
  * File: SavingsAccount.java
 
- * Author: Joel Xhelili
+ * Author: Joel Xhelili & Ira Kuleni
 
  * Date: 06/06/2024
 

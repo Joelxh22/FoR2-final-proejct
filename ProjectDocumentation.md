@@ -1,6 +1,6 @@
 Online Bank Management System
 
-My project is a small online bank system, where a customer creates accounts and makes transactions based upon his own preferences. 
+Our project is a small online bank system, where a customer creates accounts and makes transactions based upon his own preferences. 
 As soon as you run it you are given a window with 6 buttons, Create Account, Transfer, Withdraw, Deposit, Display record and exit. These buttons all run a specific method from the classes i have created which have the same name or similar name as the clicked button(except for the exit button). I will explain each button:
 Create Account: calls the CreateAccount() method of the BankAccount class. It asks for user input for your name, account number, pin, account type balance and salary(only if you have specified that you want to create a checkings account). After all these inputs the method saves the information provided in a vector which I have used to save all the information provided by all users that create a new account.
 Transfer: calls the Transfer() method which asks for four inputs, your account number, your pin, the recipient's account number, and the amount you want to transfer. After checking if the account numbers exist the program will make the transaction.
